@@ -284,19 +284,6 @@ Engineered AI systems in production-focused settings, spanning retrieval pipelin
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ashish_chandan"><img src="https://img.shields.io/badge/LeetCode-ashish__chandan-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b2e" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishchandan"><img src="https://img.shields.io/badge/GeeksforGeeks-ashishchandan-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b2e" /></a>
-<a href="https://www.hackerrank.com/ashish_chandan"><img src="https://img.shields.io/badge/HackerRank-ashish__chandan-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b2e" /></a>
-<a href="https://www.codechef.com/users/ashish_chandan"><img src="https://img.shields.io/badge/CodeChef-ashish__chandan-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b2e" /></a>
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
