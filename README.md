@@ -44,7 +44,7 @@ Software engineer focused on the full lifecycle of AI products — from model-le
 - AI safety and honesty as first-class system requirements
 - Open source contributor and continuous learner
 
-**Open to:** Software Engineer
+**Open to:** Software Engineer · AI/ML Engineer · Full-Stack Engineer · LLM Application Engineer
 
 ---
 
@@ -354,6 +354,9 @@ exploring:
   - AI observability and guardrail engineering
 open_to:
   - Software Engineer roles
+  - AI/ML Engineer roles
+  - Full-Stack Engineer roles
+  - LLM Application Engineer roles
 ```
 
 ---
